@@ -30,3 +30,14 @@ Stay tuned for Zup! ⚡️ 🆙
 
 ## Video Demo
 https://www.loom.com/share/e20d77f983cf4bbb8001dda791431717?sid=c04c8565-581f-4bea-afa2-071134572ed7
+
+## Meet the team
+
+Ramiro Gonzalez [Linkedin](https://www.linkedin.com/in/ramiro-gonzalez/)
+
+Ryan Holanda [Linkedin](https://www.linkedin.com/in/ryan-holanda/)
+
+Agustin Scian [Linkedin](https://www.linkedin.com/in/agustin-scian-forte-08658b1a1/)
+
+Manuel Gimenez
+
