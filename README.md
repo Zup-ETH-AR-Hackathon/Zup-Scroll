@@ -4,6 +4,9 @@
 
 [https://www.youtube.com/watch?v=fpMSAROdnWw](https://www.youtube.com/watch?v=fpMSAROdnWw)
 
+# Pitch Deck PDF
+[Link](https://storage.googleapis.com/taikai-storage/others/b9fd0150-5272-11ef-aaf3-1f97976fa8b8ZUP%20PITCH%20DECK.pdf)
+
 
 # Unlock the Power of DeFi with Ease
 Introducing Zup ⚡️ 🆙 
